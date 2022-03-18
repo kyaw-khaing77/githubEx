@@ -1,3 +1,6 @@
 add favorite movie 1
 add favorite movie 2
 add favorite movie 3
+my favorite food 1 
+my favorite food 2
+my favorite food 3 
