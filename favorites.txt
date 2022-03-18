@@ -1,0 +1,3 @@
+add favorite movie 1
+add favorite movie 2
+add favorite movie 3
